@@ -18,7 +18,7 @@ alias wtr='curl wttr.in'
 speedtest='curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -' #
 # at last choose python3 or your specific system, python installed 
 ```
-- `Note` : to check the private IP info
+# - `Note` : to check the private IP info
   ```
   curl ipinfo.io
   ```
