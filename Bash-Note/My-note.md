@@ -18,6 +18,10 @@ alias wtr='curl wttr.in'
 speedtest='curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -' #
 # at last choose python3 or your specific system, python installed 
 ```
+- `Note` : to check the private IP info
+  ```
+  curl ipinfo.io
+  ```
 ### 4) bash_prompt 
 
 To use the same bash prompt style as Jay, create the file ~/home/.bash_prompt and place the following inside:
