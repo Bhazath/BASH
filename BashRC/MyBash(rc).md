@@ -161,4 +161,6 @@ JOB_COLOR="\[\033[38;5;33m\]"
 
 # colour for bash courser
 echo -e '\033]12;#ff0000\007'  # Change #ff0000 to your desired color
+# echo -e '\033]12;#00ff00\007'  # Change #00ff00 to green
+
 ```
