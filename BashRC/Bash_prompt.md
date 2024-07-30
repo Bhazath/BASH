@@ -21,6 +21,11 @@ Save that file, and then open up your ~/.bashrc and place the following at the e
 ```
 source ~/.bash_prompt
 ```
+Result This customization provides a prompt that looks something like this:
+```
+┌──[19:36:33]─[0]─[Hostname:~]
+└──| 
+```
 
 # artical 
 ```
