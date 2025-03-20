@@ -1,6 +1,6 @@
 # To change the cursor shape to a box, add this to `~/.bashrc`:
 
-```bash
+```
 # Box cursor
 echo -e '\e[2 q'
 ```
@@ -15,6 +15,6 @@ echo -e '\e[2 q'
 - `\e[6 q` → Steady bar  
 
 Reload with:  
-```bash
+```
 source ~/.bashrc
 ```
