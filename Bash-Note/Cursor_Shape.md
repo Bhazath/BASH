@@ -1,7 +1,6 @@
 # To change the cursor shape to a box, add this to `~/.bashrc`:
 
 ```
-# Box cursor
 echo -e '\e[2 q'
 ```
 
